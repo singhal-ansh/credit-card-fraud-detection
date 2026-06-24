@@ -38,3 +38,6 @@ Python | scikit-learn | Pandas | Matplotlib | Seaborn | NumPy
 - 284,807 transactions | 492 fraud cases (0.17%)
 - Features V1–V28 are PCA-transformed for confidentiality
 - Source: ULB Machine Learning Group
+
+## 🚀 Live Demo
+[Try it here](https://credit-card-fraud-detection-35uktt3s3wkp2kuunkz2fx.streamlit.app/)
